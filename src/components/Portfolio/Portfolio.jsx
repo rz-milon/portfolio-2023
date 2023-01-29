@@ -2,7 +2,7 @@ import React from 'react';
 
 const Portfolio = () => {
     return (
-        <div>
+        <div className='bg-blue-600 min-h-screen'>
             Portfolio
         </div>
     );
