@@ -5,7 +5,6 @@ import { VscGithubInverted } from "react-icons/vsc";
 import { HiMail } from 'react-icons/hi';
 import { MdPictureAsPdf } from "react-icons/md";
 import BubbleParticle from '../../Particles/BubbleParticle';
-// import BubbleParticle from '../../Particles/BubbleParticle';
 
 
 
@@ -18,7 +17,7 @@ const Home = () => {
     }, [])
 
     return (
-        <div className="hero min-h-screen min-w-full bg-black/75 ">
+        <div className="hero min-h-screen min-w-full bg-[#090a16]">
            <BubbleParticle/>
             <div className="hero-content text-center top-1/2  lg:top-1/3 text-white" >
                 <div className="max-w-full text-left">

@@ -9,21 +9,10 @@ import Skills from './components/Skills/Skills';
 import Contact from './components/Contact/Contact';
 import Header from "./components/Header/Header";
 import LSideSocialIcon from "./components/LSideSocialIcon/LSideSocialIcon";
-import { Route, Router, Routes } from "react-router";
+
 
 function App() {
   return (
-    // <>
-    // <Header/>
-    // <LSideSocialIcon/>
-    // <Routes>
-    //   <Route path="/home"  element={<Home/>}/>
-    //   <Route path="/about"  element={<About/>}/>
-    //   <Route path="/portfolio" element={<Portfolio/>}/>
-    //   <Route path="/skills"  element={<Skills/>}/>
-    //   <Route path="/contact"  element={<Contact/>}/>
-    // </Routes>
-    // </>
     <div className="App">
         <Header />
         <LSideSocialIcon />

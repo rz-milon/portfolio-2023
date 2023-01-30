@@ -19,7 +19,7 @@ const Portfolio = () => {
         <div className="hero min-h-screen">
 
             <div className="text-white mx-10 lg:mx-40 md:mx-36 sm:mx-10 lg:max-w-screen-xl md:max-w-full sm:max-w-xl" data-aos="zoom-in-left" data-aos-duration="1000" data-aos-easing="ease-in-sine">
-                <h2 className='text-4xl tracking-tight font-light lg:text-left text-center text-[#ff3d00] my-12 sm:my-5 '>My Projects</h2>
+                <h2 className='text-4xl tracking-tight font-light lg:text-left text-center text-[#ff3d00]'>My Projects</h2>
                 <div className="carousel carousel-center space-x-2 lg:space-x-10 mt-10 lg:py-10 py-2">
                     <div className="carousel-item -mr-30">
                         <div className="card w-2/3 lg:w-full sm:max-w-xs h-fit bg-black/10 text-white rounded-lg shadow-xl shadow-white/10 hover:shadow-[#ff3d00]">

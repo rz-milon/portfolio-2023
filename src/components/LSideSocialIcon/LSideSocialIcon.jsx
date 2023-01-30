@@ -30,7 +30,7 @@ const LSideSocialIcon = () => {
                         <HiMail className='w-6 h-6' /></a>
                 </li>
                 <li className='hover:text-[#ff3d00] hover:translate-x-1 duration-700 text-gray-400'>
-                    <a href="http://" target="_blank" rel="noopener noreferrer" aria-label="Resume link" className='tooltip tooltip-right tooltip-info' data-tip='Resume'><MdPictureAsPdf className='w-6 h-6' /></a>
+                    <a href="http://" target="_blank" rel="noopener noreferrer" aria-label="Resume link" className='tooltip tooltip-right ' data-tip='Resume'><MdPictureAsPdf className='w-6 h-6' /></a>
                 </li>
             </ul>
         </div>

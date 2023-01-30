@@ -16,11 +16,11 @@
 }
 
 .navigation > a {
-  padding: 13px 32px;
+  /* padding: 13px 32px; */
   transition: all 0.3s ease-in-out;
   cursor: pointer;
   text-align: center;
-  width: 10rem;
+  /* width: 10rem; */
 }
 
 .navigation > a:hover{
